@@ -3,9 +3,25 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/882d782f2becc1a8cc5d/maintainability)](https://codeclimate.com/github/ArturAkhmetovSochi/java-project-61/maintainability)
 
-## Even play example
+## Even game
 
-https://asciinema.org/a/XFzv8Iae66gWCwr8CSjtpEZ8a
+https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC
+
+## Calc game
+
+//asciinema.org/a/IXfKneEKGrGhn5aPme1d1yHpF
+
+## CGD game
+
+https://asciinema.org/a/NpTAdQLWavG2cDpD8jtaPo185
+
+## Progression game
+
+https://asciinema.org/a/SpVfTEduH0hYPJEhDbfUhIt54
+
+## Prime game
+
+https://asciinema.org/a/wPuoweC0i0bK8ZnwZVYGItbnr
 
 ## Start
 
