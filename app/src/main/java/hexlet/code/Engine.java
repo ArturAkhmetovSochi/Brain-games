@@ -18,7 +18,7 @@ public class Engine {
         for (var i = 0; i < ROUNDS; i++) {
             Scanner scannerAnswer = new Scanner(System.in);
 
-            System.out.println("Question :" + questionAndAnswer[i][0]);
+            System.out.println("Question: " + questionAndAnswer[i][0]);
             String answer = scannerAnswer.next();
             if (answer.toLowerCase().equals(questionAndAnswer[i][1])) {
                 System.out.println("Correct!");

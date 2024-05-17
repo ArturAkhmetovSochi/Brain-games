@@ -5,7 +5,7 @@
 
 ## Even game
 
-https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC
+[![asciicast]({https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC}.svg)]({https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC})
 
 ## Calc game
 
