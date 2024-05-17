@@ -5,23 +5,24 @@
 
 ## Even game
 
-[![asciicast]({https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC}.svg)]({https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC})
+[![asciicast](https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC.svg)](https://asciinema.org/a/bV7NLnZdz5FQ8fOHMwLVZTAHC)
 
 ## Calc game
 
-//asciinema.org/a/IXfKneEKGrGhn5aPme1d1yHpF
+[![asciicast](https://asciinema.org/a/IXfKneEKGrGhn5aPme1d1yHpF.svg)](https://asciinema.org/a/IXfKneEKGrGhn5aPme1d1yHpF)
+
 
 ## CGD game
 
-https://asciinema.org/a/NpTAdQLWavG2cDpD8jtaPo185
+[![asciicast](https://asciinema.org/a/NpTAdQLWavG2cDpD8jtaPo185.svg)](https://asciinema.org/a/NpTAdQLWavG2cDpD8jtaPo185)
 
 ## Progression game
 
-https://asciinema.org/a/SpVfTEduH0hYPJEhDbfUhIt54
+[![asciicast](https://asciinema.org/a/SpVfTEduH0hYPJEhDbfUhIt54.svg)](https://asciinema.org/a/SpVfTEduH0hYPJEhDbfUhIt54)
 
 ## Prime game
 
-https://asciinema.org/a/wPuoweC0i0bK8ZnwZVYGItbnr
+[![asciicast](https://asciinema.org/a/wPuoweC0i0bK8ZnwZVYGItbnr.svg)](https://asciinema.org/a/wPuoweC0i0bK8ZnwZVYGItbnr)
 
 ## Start
 
