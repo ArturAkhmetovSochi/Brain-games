@@ -5,8 +5,9 @@ import java.util.Random;
 import static hexlet.code.Engine.playGame;
 
 public class Prime {
-    public static void main(String[] args) {
-    }
+
+    private static final String QUESTION = "Answer 'yes' if the number is prime, otherwise answer 'no'.";
+    private static final int RANDOM_NUMBER_RANGE_MAX = 100;
 
     public static boolean isSimple(Integer number) {
         if (number < 2) {
@@ -21,13 +22,13 @@ public class Prime {
     }
 
     public static void runGame() {
-        String question = ("Answer 'yes' if the number is prime, otherwise answer 'no'.");
+        String question = (QUESTION);
         String[][] questionAndAnswers = new String[Engine.ROUNDS][2];
 
         for (var i = 0; i < Engine.ROUNDS; i++) {
 
             Random random = new Random();
-            var randomNumber = random.nextInt(100);
+            var randomNumber = random.nextInt(RANDOM_NUMBER_RANGE_MAX);
 
             questionAndAnswers[i][0] = Integer.toString(randomNumber);
             questionAndAnswers[i][1] = (isSimple(randomNumber)) ? "yes" : "no";

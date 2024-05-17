@@ -3,8 +3,7 @@ package hexlet.code;
 import java.util.Scanner;
 
 public class Engine {
-    public static void main(String[] args) {
-    }
+
     public static final int ROUNDS = 3;
 
     public static void playGame(String question, String[][] questionAndAnswer) {

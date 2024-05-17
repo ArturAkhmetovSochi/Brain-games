@@ -3,8 +3,7 @@ package hexlet.code.games;
 import java.util.Scanner;
 
 public class Cli {
-    public static void main(String[] args) {
-    }
+
     public static void greet() {
         Scanner scanner = new Scanner(System.in);
 
