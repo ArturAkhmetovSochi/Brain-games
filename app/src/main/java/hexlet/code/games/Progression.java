@@ -12,6 +12,7 @@ public class Progression {
     private static final int MAX_RANDOM_STEP = 10;
     private static final int MIN_RANDOM_LENGTH = 6;
     private static final int MAX_RANDOM_LENGTH = 10;
+    private static final int ORIGIN_FOR_MISSING_NUMBER = 5;
 
     private static String[] progression(int number, int step, int length) {
         String[] result = new String[length];
@@ -33,7 +34,7 @@ public class Progression {
             var randomLength = random.nextInt(MIN_RANDOM_LENGTH, MAX_RANDOM_LENGTH);
 
             String[] newProgression = progression(randomNumber, randomStep, randomLength);
-            var missingNumber = random.nextInt(5, randomLength);
+            var missingNumber = random.nextInt(ORIGIN_FOR_MISSING_NUMBER, randomLength);
             String result = newProgression[missingNumber - 1];
             newProgression[missingNumber - 1] = "..";
 
@@ -41,6 +42,5 @@ public class Progression {
             questionsAndAnswers[i][1] = result;
         }
         playGame(question, questionsAndAnswers);
-
     }
 }
