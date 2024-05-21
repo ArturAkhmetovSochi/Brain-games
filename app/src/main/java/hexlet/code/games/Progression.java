@@ -33,7 +33,7 @@ public class Progression {
             var randomLength = random.nextInt(MIN_RANDOM_LENGTH, MAX_RANDOM_LENGTH);
 
             String[] newProgression = progression(randomNumber, randomStep, randomLength);
-            var missingNumber = random.nextInt(MIN_RANDOM_LENGTH, randomLength);
+            var missingNumber = random.nextInt(5, randomLength);
             String result = newProgression[missingNumber - 1];
             newProgression[missingNumber - 1] = "..";
 
