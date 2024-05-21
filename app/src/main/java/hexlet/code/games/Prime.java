@@ -6,7 +6,7 @@ import static hexlet.code.Engine.playGame;
 
 public class Prime {
 
-    private static final String QUESTION = "Answer 'yes' if given number is prime, otherwise answer 'no'.";
+    private static final String QUESTION = "Answer 'yes' if given number is prime. Otherwise answer 'no'.";
     private static final int RANDOM_NUMBER_RANGE_MAX = 100;
 
     public static boolean isSimple(Integer number) {
